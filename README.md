@@ -1,6 +1,6 @@
 # AI Article Summarizer
 
-[AI Article Summarizer](preview.png)
+[AI Article Summarizer](/preview.png)
 
 ## Tools used:
 
